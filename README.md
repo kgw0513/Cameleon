@@ -1,2 +1,2 @@
 # Brush_You
- 현재 저가 공부중인 언리얼 2d 모바일 게임입니다. 아마 Cannon보다는 이걸 먼저 완성할 거 같습니다.
+이 저작권은 저가 아닌 이 https://poppeople.tistory.com/ 블로그 주인분께서 가지고 있습니다.
